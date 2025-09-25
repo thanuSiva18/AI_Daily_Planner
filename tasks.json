@@ -1,0 +1,24 @@
+{
+    "date": "Today",
+    "available_time": {
+        "start": "09:00",
+        "end": "17:00"
+    },
+    "tasks": [
+        {
+            "name": "go to temple",
+            "duration_min": 60,
+            "priority": "Medium"
+        },
+        {
+            "name": "cook food",
+            "duration_min": 60,
+            "priority": "Medium"
+        },
+        {
+            "name": "finish course",
+            "duration_min": 60,
+            "priority": "Medium"
+        }
+    ]
+}

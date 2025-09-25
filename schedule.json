@@ -1,0 +1,24 @@
+{
+    "timestamp": "Today",
+    "message": "All tasks were successfully scheduled!",
+    "scheduled_tasks": [
+        {
+            "task_name": "go to temple",
+            "start_time": "09:00",
+            "end_time": "10:00",
+            "priority": "Medium"
+        },
+        {
+            "task_name": "cook food",
+            "start_time": "10:00",
+            "end_time": "11:00",
+            "priority": "Medium"
+        },
+        {
+            "task_name": "finish course",
+            "start_time": "11:00",
+            "end_time": "12:00",
+            "priority": "Medium"
+        }
+    ]
+}

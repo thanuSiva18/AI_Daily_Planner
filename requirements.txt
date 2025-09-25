@@ -1,0 +1,15 @@
+# Core application framework
+streamlit>=1.36.0
+
+# AI/LLM for scheduling
+google-genai>=0.16.0
+
+# Data handling and time math
+pandas>=2.2.2
+pydantic>=2.7.4
+
+# Visualization for the Gantt chart
+plotly>=5.22.0
+
+# Utility for environment variables
+python-dotenv>=1.0.1
